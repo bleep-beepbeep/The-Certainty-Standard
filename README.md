@@ -1,6 +1,6 @@
 **The Certainty Standard**
 
-An open evidentiary framework for blockchain attribution claims.**
+An open evidentiary framework for blockchain attribution claims.
 
 Author: Sean B. Collier · Version 1.0 · 2026
 
